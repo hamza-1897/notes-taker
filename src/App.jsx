@@ -2,8 +2,8 @@
 
 const App = () => {
   return (
-    <div className='text-red-500'>
-      note taking app using react.........
+    <div className='bg-gray-800 w-full' >
+      
     </div>
   )
 }
