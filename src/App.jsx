@@ -3,7 +3,7 @@
 const App = () => {
   return (
     <div className='bg-gray-800 w-full' >
-      hy
+      hy iscin 
     </div>
   )
 }
